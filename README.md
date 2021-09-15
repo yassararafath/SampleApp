@@ -1,3 +1,3 @@
 #MyApp Login Branch
 
-This is login branch of MyApp Repository.
+ login branch of MyApp Repository.
